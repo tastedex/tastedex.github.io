@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.martinshortland.tastedex",
+      "sha256_cert_fingerprints": [
+        "F8:F5:5D:97:2A:2F:42:64:53:88:81:AD:10:1E:2A:AE:81:59:CE:0A:B4:E2:F0:C6:A0:C2:9A:5F:5A:84:D5:27"
+      ]
+    }
+  }
+]
